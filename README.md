@@ -6,7 +6,6 @@ This is the code for the paper:
   author = {Meng Tang and Ismail Ben Ayed and Yuri Boykov},  
   title = {Secrets of GrabCut and Kernel K-means},  
   booktitle = {International Conference on Computer Vision (ICCV)},  
-  pages = {},  
   month = {December},  
   year = {2015},  
   address = {Santiago, Chile},  
