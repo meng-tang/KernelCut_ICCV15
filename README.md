@@ -3,14 +3,23 @@ KernelCut_ICCV15
 This is the code for the paper:
 
 @InProceedings{kkm:iccv15,
+
   author = {Meng Tang and Ismail Ben Ayed and Yuri Boykov},
+
   title = {Secrets of GrabCut and Kernel K-means},
+
   booktitle = {International Conference on Computer Vision (ICCV)},
+
   pages = {},
+
   month = {December},
+
   year = {2015},
+
   address = {Santiago, Chile},
+
   url = {http://www.csd.uwo.ca/~yuri/Abstracts/iccv15-kernel-abs.shtml}
+
 }
 
 Author: Meng Tang (mtang73@uwo.ca)
